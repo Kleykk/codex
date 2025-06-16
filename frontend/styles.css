@@ -1,0 +1,3 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+#aircraft-list { margin-top: 20px; }
+.aircraft-item { border-bottom: 1px solid #ccc; padding: 10px 0; }
